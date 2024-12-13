@@ -94,10 +94,10 @@
 
         navi {
             bindings = <
-        &trans    &trans    &trans     &trans          &trans    &kp HOME  &kp PAGE_DOWN  &kp PG_UP   &kp END    &trans
-        &kp LGUI  &kp LALT  &kp LCTRL  &kp LEFT_SHIFT  &trans    &kp LEFT  &kp DOWN       &kp UP      &kp RIGHT  &kp K_COPY
-&trans  &trans    &trans    &trans     &trans          &trans    &trans    &kp K_UNDO     &kp K_REDO  &trans     &kp K_CUT   &trans
-                            &trans     &trans          &trans    &trans    &trans         &trans
+        &trans    &trans   &trans     &trans          &trans    &kp HOME  &kp PAGE_DOWN  &kp PG_UP   &kp END    &trans
+        &kp LGUI  &kp TAB  &kp LCTRL  &kp LEFT_SHIFT  &trans    &kp LEFT  &kp DOWN       &kp UP      &kp RIGHT  &kp K_COPY
+&trans  &trans    &trans   &trans     &trans          &trans    &trans    &kp K_UNDO     &kp K_REDO  &trans     &kp K_CUT   &trans
+                           &trans     &trans          &trans    &trans    &trans         &trans
             >;
         };
 
